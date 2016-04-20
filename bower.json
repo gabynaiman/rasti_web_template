@@ -1,0 +1,16 @@
+{
+  "name": "web",
+  "version": "0.0.0",
+  "authors": [
+    "Gabriel Naiman <gabynaiman@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "assets/bower_components",
+    "test",
+    "tests"
+  ]
+}
